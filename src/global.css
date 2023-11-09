@@ -1,0 +1,11 @@
+*{
+  margin: 0;
+  padding: 0;
+  /* color:var(--tg-theme-text-color); */
+  color:aliceblue
+}
+
+body{
+  /* background-color: var(--tg-theme-bg-color); */
+  background-color:#343434;
+}
